@@ -83,6 +83,12 @@
 
 코드의 실행 스크린샷(여기에이미지삽입)
 
+-게임 오버시 메시지 출력 및 다시시작 버튼 구현
+
+
+<img width="874" height="472" alt="image" src="https://github.com/user-attachments/assets/e93e9deb-a819-4e86-b6a5-e7d7d44217f8" />
+
+
 
 ## 구현시어려웠던점
 
