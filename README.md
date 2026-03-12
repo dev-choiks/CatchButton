@@ -42,6 +42,14 @@
 
 코드의 실행 스크린샷(여기에이미지삽입)
 
+-메시지 박스 띄우기
+
+
+<img width="727" height="479" alt="image" src="https://github.com/user-attachments/assets/4566e394-231d-458f-a3fe-7ab9c9ce35da" />
+
+
+-버튼이 도망쳤을때, 잡았을때 소리 출력
+
 
 -3단계
 
