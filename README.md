@@ -55,6 +55,29 @@
 
 코드의 실행 스크린샷(여기에이미지삽입)
 
+-점수 계산(폼에 나타냄)
+
+
+<img width="729" height="476" alt="image" src="https://github.com/user-attachments/assets/35e87369-8129-4cd3-b2a7-1be40bd8cf6a" />
+
+-버튼을 놓친경우 -10
+
+
+<img width="722" height="472" alt="image" src="https://github.com/user-attachments/assets/32255562-c01b-406b-81be-77c3908d1eef" />
+
+
+-버튼을 잡은경우 +100(테스트를 위해 버튼 사이즈를 임시로 키움)
+
+
+<img width="723" height="476" alt="image" src="https://github.com/user-attachments/assets/11ccd22d-1c1f-40fd-8f42-e6482869f87b" />
+
+
+-난이도 조절(클릭에 성공할 때마다 버튼의 크기를 10%씩작게 크기를 축소)
+
+
+<img width="783" height="489" alt="image" src="https://github.com/user-attachments/assets/51b1a628-901e-4be9-affe-bb5611c0e1ac" />
+
+
 
 -4단계
 
