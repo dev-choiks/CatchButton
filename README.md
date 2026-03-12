@@ -33,7 +33,7 @@
 <img width="726" height="477" alt="image" src="https://github.com/user-attachments/assets/4b7d1d9c-c5bd-4a7f-97e0-0568d26d9e25" />
 
 
-
+폼 제목에 현재 버튼의 X, Y 좌표를 실시간으로 표시(위 사진 참고)
 
 
 -2단계코드의실행스크린샷(여기에이미지삽입)
