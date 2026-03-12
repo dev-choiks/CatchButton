@@ -38,7 +38,7 @@
             GameButton.ForeColor = SystemColors.HotTrack;
             GameButton.Location = new Point(80, 72);
             GameButton.Name = "GameButton";
-            GameButton.Size = new Size(244, 99);
+            GameButton.Size = new Size(250, 100);
             GameButton.TabIndex = 0;
             GameButton.Text = "나를 잡아봐";
             GameButton.UseVisualStyleBackColor = false;
@@ -49,7 +49,7 @@
             // 
             AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(515, 306);
+            ClientSize = new Size(724, 438);
             Controls.Add(GameButton);
             Name = "Form1";
             Text = "Form1";
