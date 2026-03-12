@@ -42,7 +42,7 @@
             GameButton.TabIndex = 0;
             GameButton.Text = "나를 잡아봐";
             GameButton.UseVisualStyleBackColor = false;
-            GameButton.Click += GameButton_Click_1;
+            GameButton.MouseClick += GameButton_MouseClick;
             GameButton.MouseEnter += GameButton_MouseEnter;
             // 
             // Form1
