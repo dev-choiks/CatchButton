@@ -28,26 +28,29 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
+            GameButton = new Button();
             SuspendLayout();
             // 
-            // button1
+            // GameButton
             // 
-            button1.Font = new Font("한컴 말랑말랑 Bold", 17.9999981F, FontStyle.Bold, GraphicsUnit.Point, 129);
-            button1.ForeColor = SystemColors.HotTrack;
-            button1.Location = new Point(80, 72);
-            button1.Name = "button1";
-            button1.Size = new Size(262, 104);
-            button1.TabIndex = 0;
-            button1.Text = "나를 잡아봐";
-            button1.UseVisualStyleBackColor = true;
+            GameButton.BackColor = SystemColors.Info;
+            GameButton.Font = new Font("한컴 말랑말랑 Bold", 17.9999981F, FontStyle.Bold, GraphicsUnit.Point, 129);
+            GameButton.ForeColor = SystemColors.HotTrack;
+            GameButton.Location = new Point(80, 72);
+            GameButton.Name = "GameButton";
+            GameButton.Size = new Size(244, 99);
+            GameButton.TabIndex = 0;
+            GameButton.Text = "나를 잡아봐";
+            GameButton.UseVisualStyleBackColor = false;
+            GameButton.Click += GameButton_Click_1;
+            GameButton.MouseEnter += GameButton_MouseEnter;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(515, 306);
-            Controls.Add(button1);
+            Controls.Add(GameButton);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -55,6 +58,6 @@
 
         #endregion
 
-        private Button button1;
+        private Button GameButton;
     }
 }
